@@ -6,5 +6,4 @@ const Home = () => (
       Home
   </div>
 )
-
 export default Home
